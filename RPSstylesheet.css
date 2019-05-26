@@ -1,0 +1,54 @@
+#box {
+    background-color: #ffffff;
+}
+
+body {
+   background-color: lightpink;
+}
+
+.jumbotron {
+    background-color: white;
+}
+
+
+h2 {
+    color: lightsalmon;
+}
+
+h3 {
+    color: lightsalmon;
+}
+
+.pabutton {
+    text-align: center;
+}
+
+#circle{
+    border-radius: 50%;
+    background-color: whitesmoke;
+    height: 300px;
+    width: 300px;
+    padding-left: 40px;
+    padding-top: 30px;
+}
+
+img {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+.row {
+     padding-left: 150px;
+}
+
+h1 {
+    font-size: 100px;
+    text-shadow:5px 5px 5px lightgrey;
+    color: white;
+}
+
+span#result{
+    color: lightsalmon;
+    font-size: 30px;
+}
